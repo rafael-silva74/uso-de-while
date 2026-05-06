@@ -52,4 +52,11 @@ exercicio5.js.
 
 
 
-<img width="840" height="430" alt="BlueBoxTaikiInomataGIF" src="https://github.com/user-attachments/assets/e22aa1ce-4ee7-4dee-8e15-301320fdb960" />
+
+<img width="830" height="460" alt="BlueBoxTaikiInomataGIF" src="https://github.com/user-attachments/assets/edb46ac5-b722-4d2e-8916-97384144c01f" />
+
+
+
+
+
+
