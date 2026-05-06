@@ -55,6 +55,7 @@ exercicio5.js.
 
 <img width="830" height="460" alt="BlueBoxTaikiInomataGIF" src="https://github.com/user-attachments/assets/edb46ac5-b722-4d2e-8916-97384144c01f" />
 
+<div class="tenor-gif-embed" data-postid="11406349427593086288" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/chinatsu-kano-taiki-inomata-blue-box-ao-no-hako-anime-gif-11406349427593086288">Chinatsu Kano Taiki Inomata GIF</a>from <a href="https://tenor.com/search/chinatsu+kano-gifs">Chinatsu Kano GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
