@@ -44,11 +44,11 @@ O programa simula um saldo inicial. O usuário tenta realizar saques e o sistema
 ## 📁 Estrutura dos arquivos
 
 
-exercicio1.js
-exercicio2.js
-exercicio3.js
-exercicio4.js
-exercicio5.js
+exercicio1.js/
+exercicio2.js/
+exercicio3.js/
+exercicio4.js/
+exercicio5.js.
 
 
 
