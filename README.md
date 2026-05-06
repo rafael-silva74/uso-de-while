@@ -49,4 +49,7 @@ exercicio2.js
 exercicio3.js
 exercicio4.js
 exercicio5.js
-<img width="498" height="281" alt="BlueBoxTaikiInomataGIF" src="https://github.com/user-attachments/assets/e22aa1ce-4ee7-4dee-8e15-301320fdb960" />
+
+
+
+<img width="498" height="430" alt="BlueBoxTaikiInomataGIF" src="https://github.com/user-attachments/assets/e22aa1ce-4ee7-4dee-8e15-301320fdb960" />
